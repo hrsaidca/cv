@@ -1,0 +1,42 @@
+
+body {
+  height: 100%;
+  background-color: #6FB98F;
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 6%;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: blue;
+}
+
+h4 {
+  color: purple;
+}
+
+h5 {
+  color: pink;
+}
+
+h6 {
+  color: white;
+}
+
+th {
+  color: yellow;
+}
